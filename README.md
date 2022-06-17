@@ -4,4 +4,7 @@ The system consists of a solution to finding out the number of people in the roo
 
 It also contains mobile control via bluetooth, to force control upon the switches and have mobile control over the switches.
 
-Arduino UNO, Relay modules, Bluetooth module, Force Dependent Resistors and some other basic components were used 
+Arduino UNO, Relay modules, Bluetooth module, Force Dependent Resistors and some other basic components were used.
+
+(P.S. The code is still on halt since I require the force dependent resistors, bluetooth module to test out functionality)
+(Need a collection of data on the analog readings of the FDRs to determine the allowed variance to not add to count) 
