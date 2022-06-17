@@ -7,4 +7,4 @@ It also contains mobile control via bluetooth, to force control upon the switche
 Arduino UNO, Relay modules, Bluetooth module, Force Dependent Resistors and some other basic components were used.
 
 (P.S. The code is still on halt since I require the force dependent resistors, bluetooth module to test out functionality)
-(Need a collection of data on the analog readings of the FDRs to determine the allowed variance to not add to count) 
+(Need a collection of data on the analog readings of the FDRs to determine the allowed variation to not add to count) 
